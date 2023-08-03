@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luizgprDev
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning HTML5, CSS and Python
-- 💞️ I’m looking to collaborate on Web3 / Blockchains
+- 💞️ I’m looking to collaborate on Web3 / Blockchains / DeFi
 - 📫 How to reach me luizgpr@gmail.com
 
 <!---
